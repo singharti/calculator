@@ -1,0 +1,26 @@
+
+h1
+{
+	margin-left: 550px;
+	 margin-top: 50px; 
+	 color: lightseagreen;
+}
+
+.cal1
+{
+  
+    width: 40%;
+    min-width: 450px;
+    height: available;
+    min-height: 300px;
+    float: left;
+	margin:400px;
+	margin-top: 10px;
+    background-color:CornflowerBlue;
+}
+
+.frm
+{
+	margin-left: 20px;
+	margin-top: 20px;
+}
